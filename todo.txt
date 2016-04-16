@@ -1,0 +1,7 @@
+## To Do List for Edgewater Garden Site
+### April 16, 2014
+
+Create html, css and js pages for it
+Use Java (or a ruby gem?) to create a forum/system for sharing plants
+Embed a google calendar for important events happening around the garden
+Buy a domain name and/or associate emails with domain name
